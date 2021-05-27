@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>333352463928-rdtf8kivdpr3i97ensm5uvprhp4a0k3a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.333352463928-rdtf8kivdpr3i97ensm5uvprhp4a0k3a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>333352463928-500rtk0f1kf2iga913rdalid00m98km7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1BS2yaKMP6FeiibRFM4DSnmQgTBzwyA4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>333352463928</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rescounts.iphoneapp</string>
+	<key>PROJECT_ID</key>
+	<string>rescounts-1537374653593</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rescounts-1537374653593.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:333352463928:ios:e356f59fc54a4763c100cd</string>
+	<key>DATABASE_URL</key>
+	<string>https://rescounts-1537374653593.firebaseio.com</string>
+</dict>
+</plist>

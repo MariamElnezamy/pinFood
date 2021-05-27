@@ -1,0 +1,410 @@
+/* 
+  Localizable.strings
+  Rescounts
+*/
+
+// Misc UI
+"ViewOrder" = "Add/View Order";
+"waitForRes" = "Waiting for Restaurant";
+"winningExtra" = "$5 Off With Your First $10 Order!";
+
+// General
+"15%" = "15%";
+"18%" = "18%";
+"20%" = "20%";
+"currencySign" = "$$$";
+"no" = "Cancel";
+"noThx" = "No Thanks";
+"yes" = "Yes";
+"tryAgain" = "Please try again.";
+"ok" = "Ok";
+"gotIt" = "Got it";
+"howItWorks" = "How it works";
+"succeeded" = "Succeeded";
+"goSettings" = "Go To Settings";
+"thx" = "Thanks";
+"congrats" = "Congratulations!";
+"done" = "Done";
+"people" = "People";
+"back" = "Back";
+"submit" = "Submit";
+"notes" = "Notes";
+"showMe" = "Show Me";
+"save" = "Save";
+"reason" = "Reason";
+"confirm" = "Confirm";
+"contains" = "Nutritional Info";
+"showAvailable" = "Not Busy";
+"searchPhTxt" = "Search restaurant, city, or cuisine";
+"promoInfo" = "Enjoy your $5 on orders for $10 or more, that doesn't include any other deal or offer";
+
+// Intro
+"carousel1" = "Ordering your meal in advance made possible at your favorite restaurants";
+"carousel2" = "No more waiting in line & no more waiting for the meal to get prepared";
+"carousel3" = "Get Users only exclusive deals while still earning your points & rewards";
+"carousel4" = "Pickup your favorite meal upon arrival & Skip the line";
+"carousel5" = "Reserve, place your order, get seated & get served upon arrival";
+"carousel6" = "Here you can enter the code of your friend table so you can be seated with them";
+"carousel7" = "Pickup & Dine-in, Discounts & Rewards\nWelcome to Rescounts, Your every meal app.";
+
+// Login / Register
+"createAccount" = "Create Account";
+"haveAccountSignIn" = "Have an account? Log In";
+"skipSignIn" = "Just want to browse? Skip";
+"name" = "Name";
+"firstName" = "First Name";
+"lastName" = "Last Name";
+"phoneNum" = "Phone Number";
+"birthdate" = "Birthdate";
+"optional" = "Optional";
+"email" = "E-mail";
+"password" = "Password";
+"newPassword" = "New Password";
+"confirmPassword" = "Confirm Password";
+"login" = "Log In";
+"logout" = "Log Out";
+"or" = "or";
+"forgotPassword" = "Forgot your password?";
+"noAccountSignUp" = "Don't have an account? Sign Up";
+"signUp" = "Sign Up";
+"profileImageText" = "Add a photo of yourself so your server will instantly recognize you.";
+"next" = "next";
+"nameRequired" = "First name is required.";
+"imageRequired" = "A profile image is required so the restaurant will recognize you!";
+"phoneRequired" = "A phone number is required so the restaurant is able to contact with you!";
+"offerText" = "Rescounts can send me special offers.";
+"terms&Conds" = "Terms and Conditions";
+"preTerms&Conds" = "I agree to the";
+"mustAcceptT&C" = "You must accept the Terms and Conditions.";
+"takePicture" = "Take Picture";
+"cameraRoll" = "Choose From Camera Roll";
+"signUpReminderTitle" = "Your sign up process hasn't been finished yet.";
+"namePhoneRequired" = "Please fill in your name or phone number";
+"locationRequiredTitle" = "Location Needed";
+"locationRequiredText" = "Rescounts needs your location to show you restaurants around you, and to show you how far away they are.\n\nYou can re-enable location permissions in Settings.";
+
+// Verification - Email & Password
+"postEmailIns" = "Check your email to find your verification code, then enter it below";
+"subNewPass" = "Submit New Password";
+"entNewPass" = "Enter New Password";
+"passIsMissing" = "you must enter a password.";
+"passNotMatch" = "Your passwords do not match.";
+"codeIsMissing" = "You must enter the code you were emailed.";
+"passUpdated" = "You have successfully updated your password";
+
+// Payment
+"complete" = "Complete";
+"addPayment" = "Add Payment Method";
+"paymentMethod" = "Payment Method";
+"creditCard" = "Credit Card";
+"applePay" = "Apple Pay";
+"paymentIns" = "You may add a Payment Method after deciding where you wish to dine";
+"applePayWarnTitle" = "Cannot Add Apple Pay";
+"applePayNoCard" = "You haven't set up your cards";
+"applePayNoDevice" = "Your device is not allowed to use Apple Pay";
+"applePaySetUpText" = "Your Apple Pay has been selected for your payment option";
+"paymentEdit" = "Edit";
+"removePayment" = "Remove Payment Method";
+"skipPaymentSelection" = "Skip For Now";
+"paymentAdded" = "Payment method has been added for your account.";
+
+// Browse Screen
+"viewVideo" = "Tutorial Video";
+"nearby" = "nearby";
+"map" = "map";
+"list" = "list";
+"search" = "search";
+"noResultsTitle" = "No Results";
+"noResultsText" = "There were no restaurants found for your search.";
+"result" = "Result";
+"results" = "Results";
+"rescountsMessage" = "Rescounts Message";
+"fromGoogle" = "No Specific results found. Showing restaurants based on a Google search.";
+
+// Profile Screen
+"promoCode" = "Private Institution Code";
+"profile" = "profile";
+"winnings" = "Rescounts Points";
+"yourWinnings" = "Rescounts Points";
+"allTimeWinnings" = "all-time Rescounts Points";
+"customerWinnings" = "Customer";
+"serverWinnings" = "Server";
+"serverWinningsInfo" = "Servers earn 2 Rescounts Points for every Rescounts table they serve.";
+"city" = "City";
+"myReview" = "My Reviews";
+"referFriend" = "Refer a Friend & Earn";
+"enterReferralCode" = "Enter Referral Code";
+"enableNotifications" = "Enable Notifications";
+"disableNotifications" = "Disable Notifications";
+"faq" = "FAQ";
+"payment" = "Payment";
+"sendFeedback" = "Send Feedback";
+"callUs" = "Call Us";
+"callSupport" = "Call Support";
+"callSupportText" = "Would you like to call Rescounts customer support at:";
+"rateApp" = "Rate App";
+"myReviews" = "My Reviews";
+"myAccount" = "My Account";
+"iosSet" = "iOS Settings";
+"iosNotification" = "You need to enable notifications in iOS settings.";
+"perks" = "Perks";
+"earnPoints" = "How to Earn More Points";
+"earn_1" = "1. Your Third order: 2500 points (once)\n";
+"earn_2" = "2. Like us on Facebook: 100 points\n";
+"earn_3" = "3. Follow us on Instagram: 100 points\n";
+"earn_4" = "4. Refer a friend: 100 points\n";
+"earn_5" = "5. Tag & Share on Facebook: 100 points\n";
+"earn_6" = "6. Tag & Share on instagram: 100 points\n";
+"earn_7" = "7. Add photos of your experience on the app: 100 points";
+
+// Restaurant Screen
+"avgPrice" = "Avg. %@ / person";
+"home" = "Home";
+"dineIn" = "Dine In";
+"cancelRes" = "Cancel Request";
+"cancelResPrompt" = "Are you sure you want to cancel the request?";
+"cancelResYes" = "Yes, Cancel";
+"cancelResNo" = "Whoops, No!";
+"today" = "Today";
+"tomorrow" = "Tomorrow";
+"open" = "Open";
+"closed" = "Closed";
+"directions" = "Directions";
+"description" = "Description";
+"numPeople.one" = "%d Person";
+"numPeople.other" = "%d People";
+"pickup" = "Pickup";
+"hours" = "Hours of Operation";
+"viewPhotos" = "Browse Review Photos";
+"overall" = "Overall";
+"service" = "Service";
+"numReviews.one" = "%d Review";
+"numReviews.other" = "%d Reviews";
+"resClosedWarnTitle" = "Restaurant is Closed";
+"theRes" = "The restaurant";
+"theResClosedWarnText" = " is currently closed and is unlikely to respond to your request. Would you like to try anyways?";
+"events&ent" = "Events and Entertainment";
+"holidayHours" = "Holiday Hours";
+
+// Reservations
+"claimTable" = "Confirm Request";
+"reserveTable" = "Reserve A Table";
+"joinGroup" = "Join A Group";
+"confirmPop" = "Please confirm the details of your request at";
+"tableIsReady" = "Your table is ready";
+"tableOnRequest" = "Waiting for restaurant to confirm your request";
+"tableIsOpenWarnTitle" = "Whoops! You have an open table!";
+"specialRequests" = "Special Requests";
+"specialRequestsTxt" = "e.g. high chair, window seat, wheelchair, etc";
+"startAutoCancel" = "You have 30 minutes to place your first order.";
+"endAutoCancel" = "Your 30 minutes to place your order has expired. Please check availability with the restaurant again if you would still like to place an order.";
+
+// Orders
+"rty" = "Restaurant Code (Optional)";
+"noTable" = "Sorry, there are no tables available at %@ at this time. Please try a different restaurant";
+"findElse" = "Let's find you something else.";
+"menuFromOtherResWarnText" = "Unfortunately you cannot add menu items from other restaurants to your order.";
+"noMoreItemDueToPendingOrderTitle" = "Pending Order";
+"noMoreItemDueToPendingOrderText" = "You cannot add more items until the restaurant has responded to your last order";
+"noTableForOrderText" = "Please select Dine-in or Pickup to start your order.";
+"tableNotConfirmed" = "If you would like to add this item to your order, the restaurant must first confirm availability.";
+"minToSelect.one" = "You must select at least %d option for %@";
+"minToSelect.other" = "You must select at least %d options for %@";
+"limitToSelect.one" = "You must select at most %d option for %@";
+"limitToSelect.other" = "You must select at most %d options for %@";
+"orderTitle1" = "Your Order";
+"orderTitle2" = "Order";
+"goMenu" = "Go to Menu";
+"addMenu" = "Add / Menu";
+"pollingMessTitle" = "Waiting for Restaurant";
+"pollingMessText" = "Currently waiting for the restaurant to respond. You cannot submit an order or pay until they've responded to your last request.";
+"submitOrderTextCredit" = "A payment of %@ will be pre-authorized to your credit card ending in %@.";
+"submitOrderTextApple" = "A payment of %@ will be pre-authorized through apple pay.";
+"submitOrderTitle" = "Submit your order?";
+"checkout" = "Checkout";
+"submitOrder" = "Review Order";
+"submitOrderOkApplePayText" = "Successfully submitted order with your Apple Pay";
+"deleteMenuErrorTitle" = "Waiting";
+"deleteMenuErrorText" = "Cannot remove items until the restaurant responds.";
+"optionsListPriceInst" = "** Add ons/options prices are now included in the Price above.";
+"yourServer" = "Your Server";
+"subtotal" = "Subtotal";
+"tax" = "Tax";
+"autoTip" = "* Tables with 6 or more people are charged an automatic gratuity of %d%%";
+"resDiscount" = "Restaurant Discount";
+"redeemWinnings" = "Redeem Rescounts Points";
+"applePayReminder" = "Pay with Apple Pay";
+"signUpBnx" = "Sign-Up Bonus";
+"save$5" = "Spend $10 to save $5";
+"miniCharge" = "The minimum charge is $0.50.";
+"addMoreBeforeCheckout" = "You can add more items to your order and still earn points at any time before checkout";
+"lateArrival" = "In the case of late arrival, food quality cannot be assured by the restaurant.";
+"rDealsDisclaimer1" = "Processing fee helps operate the Rescounts platform including customer support & credit card processing & Only applied when choosing from the deals";
+"rDealsDisclaimer2" = "RDeals cannot be used with any other offer.";
+"alcohol" = "As per Ontario law, alcohol may only be served to individuals 19 years of age or older. You will be required to present government-issued photo ID when seated.";
+
+// Order Manager
+"tableOKAccepted1" = "%@ has accepted your request";
+"tableOKAccepted2" = " People at ";
+"tableOKAccepted3" = "Pickup at ";
+"tableOKJoined" = "You Have Joined Table ";
+"tableOKNow" = "Now";
+"tableOK1" = "Browse menu";
+"tableOK2" = "Pick & Choose (you have 30 min to place your order before your request gets released automatically)";
+"tableOK3" = "Submit your order";
+"tableOK4" = "Wait for restaurant to confirm";
+"tableOK5" = "Arrive on time (to ensure food quality)";
+"tableOK6" = "Press checkout when you are done and need to settle your bill";
+"tableNoOKRescheduledTitle" = "Updated Time";
+"tableNoOkRescheduledText" = "%@ is very busy and would like to move your reservation to %@. Is this new time OK?";
+"tableNoCanceled" = "Your request has been canceled";
+"tableThx" = "Thank you for visiting us!";
+"tableNoDeclinedDefault" = "No response from restaurant.";
+"orderSentTitle" = "Your order has been sent to the restaurant.";
+"orderSentText" = "The restaurant is processing your order. You will get a confirmation shortly";
+"orderOKTitle" = "%@\nhas accepted your order.";
+"orderOKText" = "See you shortly.";
+"orderOKsubText" = "You can add additional items to your order at any time, and remember to checkout before you leave the restaurant.";
+"orderNoOK" = "Sorry, %@ cannot fulfill the following menu items:";
+"returnMenu" = "Return to Menu";
+"checkoutEarlyTitle" = "Checking out early?";
+"checkoutEarlyText" = "Your reservation is scheduled for %@, and you don't need to checkout until afterwards.";
+
+// Notification
+"goAppStore" = "go to App Store";
+"discountRem4" = "Use Rescounts to get $5 off of your next $10 meal!";
+"discountRem2" = "Use Rescounts to get $5 off of your next $10 meal!";
+"discountRem1" = "Use Rescounts to get $5 off of your next $10 meal!";
+"discountRem15" = "Rescounts is growing every day, come check out the new restaurants!";
+"firstBoxNotiTitle" = "Your Bonus is Waiting!";
+"unusedWinningNoti" = "You have unused Rescounts Points. Earn more every time you order with Rescounts!";
+"zeroWinningNoti" = "Check out the new restaurants in your area. More restaurants are joining Rescounts every week!";
+"reminderNotiTitle" = "We're Ready For Your Order!";
+
+// Options
+"selAtMost" = "Select at most %d";
+"selExa" = "Select exactly %d";
+"selMinLim" = "Select %d - %d items";
+"selAtLeast" = "Select at least %d";
+"calories" = "Calories";
+"numItems" = "Number of Items:";
+"sub&allerText" = "Special instructions or allergies (optional)";
+"addToOrder" = "Add To Order";
+
+// Cuisine Types
+"AsianFusion" = "Asian Fusion";
+"HappyHour" = "Happy Hour";
+"Japanese" = "Japanese";
+"PubFare" = "Pub Fare";
+"Wine" = "Wine";
+
+// Reviews
+"reviews" = "Reviews";
+"removeItem" = "Remove Item";
+"removeItemMessage" = "Are you sure you want to remove this item?";
+"resThxTitle" = "Thanks for having a bite at";
+"rateServer" = "Rate your server:";
+"rateRes" = "Rate Restaurant";
+"tipFormat" = "0.00";
+"leaveReview" = "Leave a Review (optional)";
+"add3Photos" = "Add up to 3 Photos (optional)";
+"reviewPageTitle" = "Rate & Review";
+"unreviewedTipMess" = "Your table was closed with a tip of %@. Please rate your server and the restaurant.";
+"total" = "Total";
+"totalCharge" = "Total charge";
+"bigTipWarnPopTitle" = "Tip Confirmation";
+"bigTipWarnPopText" = "You are giving a very large tip. Are you sure this is the correct amount?";
+"tip" = "Tip";
+"closeTablePopTitle" = "Thanks for using rescounts!";
+"closeTablePopText" = "We hope you had a nice experience at %@! Check your email for your itemized receipt.";
+"closeTablePoints" = "You have gained %d Rescounts Points!";
+"closeTableRty" = "due to your %.01fx bonus at this restaurant!";
+"closeTableCheckProfile" = "Check your profile for your balance.";
+"closeTableFirstOrder" = "Use Rescounts 2 more times and earn 2500 bonus Rescounts Points!";
+"closeTableReducedTip" = "Due to a payment error, we reduced your tip to %d%, %@. Sorry for the inconvenience!";
+"rateAppMessage" = "Like Rescounts? Leave us a quick rating!";
+"bonxEarnedMess" = "You have unlocked additional %d Rescounts Points";
+
+// Winnings
+"winningPopupText" = "For every dollar you spend, you receive 10 Rescounts Points.";
+"winningPopupText2" = "As you gain more Rescounts Points, you receive bigger and bigger discounts!";
+"uVeGot" = "You have received";
+"friendRefered" = "A friend has used your referral code.";
+"referPopTitle" = "How Referral Works";
+"referPopText" = "For every friend who downloads Rescounts and enters your code, you will earn 100 Rescounts points. Make sure to check your balance after they do!\n";
+"referralCode" = "Referral Code";
+"referIns" = "Enter your friend's referral code.\n\nThey will get bonus Rescounts Points.";
+"referSucc" = "Your friend will receive 100 Rescounts Points.";
+"referFailed" = "We couldn't refer your friend. Either the code was incorrect, or you've already referred someone.";
+"share" = "Share";
+"shareMess" = "Use my code %@ to download Rescounts for free and get $5 OFF your first order and a lot of exclusive deals at your favourite restaurant.";
+"pointsInfo" = "Total: %d ( %d to go )";
+"pointsToGoInfo" = "%d for your %@ reward";
+
+// Help
+"rescountsSupport" = "Rescounts Support";
+"reachRescountsSupport" = "You can reach rescounts support at:";
+
+// Errors
+"oops" = "Whoops!";
+"error" = "Error";
+"unexpectedError" = "There was a problem";
+"signUpErrorTitle" = "Account Error";
+"signUpErrorText1" = "Something went wrong in the sign up process.";
+"signUpErrorText2" = "Please try again or use social login.";
+"invalidEmail" = "That email address is invalid.";
+"invalidRes" = "Invalid Restaurant";
+"resNotFound" = "The restaurant cannot be found.";
+"passwordsDontMatch" = "The passwords don't match.";
+"emptyFields" = "You must complete all fields.";
+"noEmailTitle" = "Cannot Send Mail";
+"noEmailText" = "Email has not been setup on this device.";
+"loginErrorTitle" = "Login Error";
+"loginErrorText" = "Invalid email/password. Please try again.";
+"deleteReviewErrorTitle" = "There was a problem deleting your reviews";
+"deleteReviewErrorText" = "Temporary error deleting your review.";
+"cannotUpdateProfile" = "Could not update profile. Please try again.";
+"cannotUpdateProfilev2" = "There was a problem updating your profile.";
+"cannotUpdateProfileMess" = "This problem might be temporary, please try again!";
+"cannotUpdateGeneral" = "First name, last name, email or phone number cannot be empty. Please try again!";
+"cannotUpdatePass" = "Confirm password doesn't match new password. Please try again!";
+"uploadError" = "Upload Error";
+"cannotLoadReviews" = "Cannot load all reviews, please try again.";
+"cannotUploadPhoto" = "Could not upload photo. Please try again.";
+"applePayErrorTitle" = "Apple Pay Error";
+"applePayErrorText" = "We were not able to setup Apple Pay with your Rescounts account. Please check your Apple Pay details and try again.";
+"addPaymentErrorTitle" = "Unable to add payment method";
+"addPaymentErrorText" = "We were not able to update payment method. Please try again later";
+"resetPassErrorText" = "There was an error resetting your password. Please the process again with a new code.";
+"payBillErrorTitle" = "Payment Error";
+"payBillErrorText" = "There was an issue with the payment process. If this issue persists, try not using your Rescounts Points, reducing the tip to $0, or restarting the app.\n\nYou can also call Rescounts Support at:";
+"submitReviewErrorTitle" = "Review Submission Error";
+"submitReviewErrorText" = "There was an issue with the review submission process. If this issue persists, try restart the app.\n\nYou can also call Rescounts Support at:";
+"submitOrderApplePayError" = "Error found processing Apple Pay setup. The order cannot be sent.";
+"reservationErrorNoPayTitle" = "No Payment Method";
+"reservationErrorNoPayText" = "You need a payment method to make an order.";
+"reservationErrorWrongCodeTitle" = "Incorrect Table Code";
+"reservationErrorWrongCodeText" = "The Table Code entered does not exist.\nPlease check the code and try again.";
+"resLost" = "Could not contact restaurant, please try again later.";
+"reqLost" = "The request has been lost.";
+"submitOrderGeneric" = "Could not submit Order. Check your internet connection and try again.";
+"payBillGeneric" = "Could not pay the bill. Check your internet connection and try again.";
+"reviewGeneric" = "Could not submit review. Check your internet connection and try again.";
+"submitPhotoGeneric" = "Could not submit review photo. Check your internet connection and try again.";
+"deletePhotoGeneric" = "Could not delete review. Check your internet connection and try again.";
+"loginGeneric" = "Could not login. Check your internet connection and try again.";
+"updateGeneric" = "Could not update user. Check your internet connection and try again.";
+"couldNotReachServer" = "Could not reach server.";
+"accountNotActivatedTitle" = "Activate Your Account";
+"accountNotActivated" = "You need to activate your account before beginning your order.\n\nCheck your email for the welcome message sent by Rescounts when you created your account.";
+"noTableAvailable" = "No Table Available";
+"missingPaymentDetails" = "Missing payment details.";
+"noTableWithCode" = "No group was found with this code";
+"userAlreadyExists" = "A user already exists with that email.";
+"cantSendCode" = "Your last password reset request was sent too recently, please wait a few minutes and try again.";
+"wrongUser" = "You are not authorized to perform this action. You may need to logout, then login again.";
+"loginFailed" = "Invalid email/password. Please try again.";
+"sharingWrongCode" = "That sharing code does not match any user!";
+"sharingAlreadyShared" = "You have already entered a referral code. You can only grant the referral bonus once!";
+"sharingGeneric" = "We have hit an unexpected error and could not enter the referral code. Please try again later!";
+"forgotPasswordError" = "You must enter a password and the code you were emailed.";

@@ -1,0 +1,6 @@
+# OS Noise
+*.swp
+.DS_Store
+
+# Xcode junk
+xcuserdata/

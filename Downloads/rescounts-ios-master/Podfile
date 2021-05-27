@@ -1,0 +1,33 @@
+platform :ios, '9.0'
+
+# ignore all warnings from all pods
+inhibit_all_warnings!
+
+target 'Rescounts' do
+  use_frameworks!
+  pod 'Alamofire'
+  pod 'AlamofireImage'
+  pod 'FacebookCore'
+  pod 'FacebookLogin'
+  pod 'FacebookShare'
+  pod 'GoogleSignIn'
+  pod 'Fabric'
+  pod 'Crashlytics'
+  pod 'GoogleAnalytics'
+  pod 'Firebase/Analytics'
+  pod 'CardScan'
+
+  pod 'netfox', :configurations => ['Debug' ]
+end
+
+post_install do |installer|
+    work_dir = Dir.pwd
+    Dir.glob("Pods/Target Support Files/Pods-Demo/*.xcconfig") do |xc_config_filename|
+        full_path_name = "#{work_dir}/#{xc_config_filename}"
+        xc_config = File.read(full_path_name)
+        new_xc_config = new_xc_config.sub(/GCC_PREPROCESSOR_DEFINITIONS/, 'PODS_GCC_PREPROCESSOR_DEFINITIONS')
+        File.open(full_path_name, 'w') { |file| file << new_xc_config }
+    end
+
+end
+

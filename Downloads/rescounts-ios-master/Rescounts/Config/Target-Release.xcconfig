@@ -1,0 +1,12 @@
+//
+//  Target-Release.xcconfig
+//
+
+#include "Project.xcconfig"
+#include "../../Pods/Target Support Files/Pods-Rescounts/Pods-Rescounts.release.xcconfig"
+
+VALIDATE_PRODUCT = YES
+
+OTHER_CFLAGS = -DNS_BLOCK_ASSERTIONS=1
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) $(PODS_GCC_PREPROCESSOR_DEFINITIONS)
+

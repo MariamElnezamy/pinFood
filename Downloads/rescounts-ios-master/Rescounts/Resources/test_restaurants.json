@@ -1,0 +1,193 @@
+{
+   "restaurants":[
+      {
+         "id":"2ik2ef9",
+         "name":"REDS",
+         "location":{
+            "lat":43.659100,
+            "long":-79.382386
+         },
+         "address":"1 Gerrard St W, Toronto ON, M5B 1G3",
+         "description":"Nestled amongst humble buildings on quaint Yonge street, this restaurant-née-pub boasts a large tap list and excellent food.\n\nGreat bang for your buck.",
+         "rating":3.7,
+         "server_rating":4.2,
+         "currency_symbol":"$",
+         "average_price":30,
+         "cuisine_types":[
+            "Upscale Pub"
+         ],
+         "hours":[
+            {
+               "open":"12:00",
+               "close":"19:30"
+            },
+            {
+               "open":"11:00",
+               "close":"20:30"
+            },
+            {
+               "open":"10:00",
+               "close":"17:30"
+            },
+            {
+               "open":"11:00",
+               "close":"19:30"
+            },
+            {
+               "open":"12:00",
+               "close":"19:30"
+            },
+            {
+               "open":"12:00",
+               "close":"19:30"
+            },
+            {
+               "open":"12:00",
+               "close":"19:30"
+            }
+         ],
+         "is_online":true,
+         "thumbnail":"http://viewthevibe.com/wp-content/uploads/2013/11/10598565404_5191c994b3_z.jpg",
+         "images":[
+            "http://www.mcmillandesign.ca/wp-content/uploads/2016/10/RedMidtown14-e1483541548900.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2012/10/20121017-1.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2013/11/20131031-redsmidtown590-18.jpg",
+            "https://shopsquareone.com/sites/default/files/styles/store__logo__medium/public/assets/store/logo/redswinetavern-logo.png?itok=N5rOK8z6"
+         ],
+         "user_images":[
+            "http://www.mcmillandesign.ca/wp-content/uploads/2016/10/RedMidtown14-e1483541548900.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2012/10/20121017-1.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2013/11/20131031-redsmidtown590-18.jpg",
+            "https://shopsquareone.com/sites/default/files/styles/store__logo__medium/public/assets/store/logo/redswinetavern-logo.png?itok=N5rOK8z6",
+            "http://www.mcmillandesign.ca/wp-content/uploads/2016/10/RedMidtown14-e1483541548900.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2012/10/20121017-1.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2013/11/20131031-redsmidtown590-18.jpg",
+            "https://shopsquareone.com/sites/default/files/styles/store__logo__medium/public/assets/store/logo/redswinetavern-logo.png?itok=N5rOK8z6",
+            "http://www.mcmillandesign.ca/wp-content/uploads/2016/10/RedMidtown14-e1483541548900.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2012/10/20121017-1.jpg",
+            "https://www.blogto.com/listings/restaurants/upload/2013/11/20131031-redsmidtown590-18.jpg",
+            "https://shopsquareone.com/sites/default/files/styles/store__logo__medium/public/assets/store/logo/redswinetavern-logo.png?itok=N5rOK8z6"
+         ],
+         "num_reviews":78,
+         "reviews":[
+            {
+               "id":52315,
+               "user_id":925832,
+               "user_name":"Bobby M",
+               "user_review_count":53,
+               "user_photo":"https://chiefexperienceofficer.com/images/Eric_Gould_Bear_User_Interface_Patent_Expert_Witness.png",
+               "text":"This place was absolutely great, I'd recommend it to everyone!!!",
+               "rating":4,
+               "server_rating":5,
+               "reply":"Thanks! We aim to please!",
+               "timestamp":"2017-12-25T12:34:56Z"
+            },
+            {
+               "id":52611,
+               "user_id":449225832,
+               "user_name":"Bobson D",
+               "user_review_count":1,
+               "user_photo":"https://media.nngroup.com/media/people/photos/IMG_2366-copy-400x400.jpg.400x400_q95_autocrop_crop_upscale.jpg",
+               "text":"Worst place I've been to in a while. Why are the reviews so good?",
+               "rating":1,
+               "server_rating":1,
+               "reply":"Are you sure you're reviewing the right place? We're pretty great.",
+               "timestamp":"2018-01-25T12:34:56Z"
+            },
+            {
+               "id":23637,
+               "user_id":748883235,
+               "user_name":"Susie D",
+               "user_review_count":5355,
+               "user_photo":"https://static.comicvine.com/uploads/original/11125/111257557/4852354-susie.jpg",
+               "text":"This is my favourite place to go with Calvin.\n\nHe and I have been comign here for 30 years! Longer than it's even been open!\n\nDefinitely recommend.",
+               "rating":5,
+               "server_rating":3,
+               "timestamp":"2018-02-12T12:34:56Z"
+            },
+            {
+               "id":52315,
+               "user_id":925832,
+               "user_name":"Bobby M",
+               "user_review_count":53,
+               "user_photo":"https://chiefexperienceofficer.com/images/Eric_Gould_Bear_User_Interface_Patent_Expert_Witness.png",
+               "text":"This place was absolutely great, I'd recommend it to everyone!!!",
+               "rating":4,
+               "server_rating":5,
+               "reply":"Thanks! We aim to please!",
+               "timestamp":"2018-04-02T12:34:56Z"
+            },
+            {
+               "id":52611,
+               "user_id":449225832,
+               "user_name":"Bobson D",
+               "user_review_count":12,
+               "user_photo":"https://media.nngroup.com/media/people/photos/IMG_2366-copy-400x400.jpg.400x400_q95_autocrop_crop_upscale.jpg",
+               "text":"Worst place I've been to in a while. Why are the reviews so good?",
+               "rating":1,
+               "server_rating":1,
+               "timestamp":"2018-05-22T12:34:56Z"
+            },
+            {
+               "id":23637,
+               "user_id":748883235,
+               "user_name":"Bobby-Joe-Susanna-Mary-Ann G",
+               "user_review_count":5355,
+               "user_photo":"https://static.comicvine.com/uploads/original/11125/111257557/4852354-susie.jpg",
+               "text":"This is my favourite place to go with Calvin.\n\nHe and I have been comign here for 30 years! Longer than it's even been open!\n\nDefinitely recommend.",
+               "rating":5,
+               "server_rating":3,
+               "timestamp":"2018-07-25T12:34:56Z"
+            }
+         ]
+      },
+      {
+         "id":"15gssdgf2ik2ef9g",
+         "name":"Duke's",
+         "location":{
+            "lat":43.658967,
+            "long":-79.383019
+         },
+         "rating":4.1,
+         "server_rating":3.1,
+         "currency_symbol":"£",
+         "average_price":22,
+         "cuisine_types":[
+            "Pub Fare",
+            "Burgers"
+         ],
+         "is_online":true,
+         "thumbnail":"https://www.blogto.com/listings/restaurants/upload/2013/12/20131206-dukesrefresher590-15.jpg",
+         "images":[
+
+         ],
+         "num_reviews":3862
+      },
+      {
+         "id":"dsflk892iksdf2ef9f",
+         "name":"Fake اسم Restaurant",
+         "location":{
+            "lat":43.658500,
+            "long":-79.382086
+         },
+         "address":"400 Yonge St Toronto ON Canada M5B 1G3",
+         "description":"I'm not sure what اسم means, but I think it's authentic.",
+         "rating":2.1,
+         "server_rating":4.9,
+         "average_price":0,
+         "cuisine_types":[
+            "Halal"
+         ],
+         "is_online":false,
+         "thumbnail":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-256/chicken-shawarma-with-yogurt-sauce-1937458.jpg",
+         "images":[
+
+         ],
+         "num_reviews":0
+      }
+   ],
+   "count":3,
+   "page":1,
+   "page_size":10,
+   "has_more":false
+}
